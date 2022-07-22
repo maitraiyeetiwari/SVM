@@ -7,5 +7,9 @@ Packages: pandas, numpy, sklearn, matplotlib
 I have used linear, rbg and sigmoid kernels to predict whether a cell is benign or cancerous. 
 # Model accuracy
 I used Jacquard index and confusion matrix to evaluate the model accuracy. 
-# Confusion matrix!
-[confusion-matrix](https://user-images.githubusercontent.com/109150738/180422713-8206ff50-b31e-4bb8-ae0a-5d38d3a6a9e7.png)
+#image
+![cells](https://user-images.githubusercontent.com/109150738/180422852-418f418d-de82-4891-aa66-5c2f8e9aee99.png)
+
+# Confusion matrix
+
+![confusion-matrix](https://user-images.githubusercontent.com/109150738/180422807-48c3ee1b-8eb3-4254-9942-2cc2873bb137.png)
